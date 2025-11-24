@@ -18,7 +18,7 @@ El módulo 'date_operations.py' tiene funciones como: 'add_days(date, days)',
 'middle_day_between_two_dates(initial_date, final_date)'
 
 El paquete 'ej3a3_time_package' se debe importar desde el script 'ej3a3_main.py'
-por ello, se debe configurar el archivo '__init__.py'. Por tanto es necesario crear este archivo.
+por ello, se debe configurar el archivo '__init__.py'.
 
 Ejemplo:
     Entrada:

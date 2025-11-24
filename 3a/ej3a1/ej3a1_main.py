@@ -48,6 +48,7 @@ Exemple:
 """
 
 import ej3a1_operations
+
 print(ej3a1_operations.add(3, 4))
 print(ej3a1_operations.subtract(10, 5))
 print(ej3a1_operations.multiply(3, 4))
